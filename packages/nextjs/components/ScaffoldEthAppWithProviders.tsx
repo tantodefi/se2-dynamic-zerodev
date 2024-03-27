@@ -52,7 +52,7 @@ export const ScaffoldEthAppWithProviders = ({ children }: { children: React.Reac
   return (
     <DynamicContextProvider
       settings={{
-        environmentId: "1d92c1b4-8263-4f72-9449-946d57c21d74",
+        environmentId: "1d92c1b4-8263-4f72-9449-946d57c21d74", // update this ID to yours
         walletConnectors: [EthereumWalletConnectors, ZeroDevSmartWalletConnectors],
       }}
     >

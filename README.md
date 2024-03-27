@@ -1,3 +1,25 @@
+# 🏗 Scaffold-ETH 2 with dynamic.xyz and zerodev.app
+
+youtube video explaining how to set up: https://youtu.be/72fHCCgUGmg
+
+scaffold-eth2: https://scaffoldeth.io/
+dynamic.xyz: https://www.dynamic.xyz/
+zerodev.app: https://zerodev.app/
+
+steps: 
+
+1. git clone repo
+
+2. add your dynamic ID to line 55 in `ScaffoldEthAppWithProviders.tsx`
+
+3. set up CORS in dynamic by adding `https://localhost:3000` or whatever URL you will be hosting the dynamic widget
+
+4. Add zerodev Project-ID to the dynamic dashboard under the section 'Account Abstraction'
+
+5. Configure your dynamic wallet widget
+
+easy.
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
