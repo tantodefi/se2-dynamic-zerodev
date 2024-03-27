@@ -2,9 +2,9 @@
 
 youtube video explaining how to set up: https://youtu.be/72fHCCgUGmg
 
-scaffold-eth2: https://scaffoldeth.io/
-dynamic.xyz: https://www.dynamic.xyz/
-zerodev.app: https://zerodev.app/
+- scaffold-eth2: https://scaffoldeth.io/
+- dynamic.xyz: https://www.dynamic.xyz/
+- zerodev.app: https://zerodev.app/
 
 steps: 
 
