@@ -2,9 +2,9 @@
 
 youtube video explaining how to set up: https://youtu.be/72fHCCgUGmg
 
-- scaffold-eth2: https://scaffoldeth.io/
-- dynamic.xyz: https://www.dynamic.xyz/
-- zerodev.app: https://zerodev.app/
+- scaffold-eth2 docs: https://docs.scaffoldeth.io/
+- dynamic.xyz docs: https://docs.dynamic.xyz/react-sdk/
+- zerodev.app docs: https://docs.zerodev.app/sdk/core-api/create-account
 
 steps: 
 
@@ -19,6 +19,8 @@ steps:
 5. Configure your dynamic wallet widget
 
 easy.
+
+Here are the zerodev docs on how to configure using Dynamic as a signer - this starter repo is set up to use the native integration but you could also set it up using a custom integration with Dynamic's (EOA) signer: https://docs.zerodev.app/sdk/signers/dynamic 
 
 # 🏗 Scaffold-ETH 2
 
